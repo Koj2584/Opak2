@@ -1,0 +1,9 @@
+G:\Dokumenty\Csharp\Opak2\Opak2\bin\Debug\Opak2.exe.config
+G:\Dokumenty\Csharp\Opak2\Opak2\bin\Debug\Opak2.exe
+G:\Dokumenty\Csharp\Opak2\Opak2\bin\Debug\Opak2.pdb
+G:\Dokumenty\Csharp\Opak2\Opak2\obj\Debug\Opak2.csprojAssemblyReference.cache
+G:\Dokumenty\Csharp\Opak2\Opak2\obj\Debug\Opak2.Properties.Resources.resources
+G:\Dokumenty\Csharp\Opak2\Opak2\obj\Debug\Opak2.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\Opak2\Opak2\obj\Debug\Opak2.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\Opak2\Opak2\obj\Debug\Opak2.exe
+G:\Dokumenty\Csharp\Opak2\Opak2\obj\Debug\Opak2.pdb
