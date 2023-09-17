@@ -7,3 +7,14 @@ G:\Dokumenty\Csharp\Opak2\Opak2\obj\Debug\Opak2.csproj.GenerateResource.cache
 G:\Dokumenty\Csharp\Opak2\Opak2\obj\Debug\Opak2.csproj.CoreCompileInputs.cache
 G:\Dokumenty\Csharp\Opak2\Opak2\obj\Debug\Opak2.exe
 G:\Dokumenty\Csharp\Opak2\Opak2\obj\Debug\Opak2.pdb
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\bin\Debug\Opak2.exe.config
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\bin\Debug\Opak2.exe
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\bin\Debug\Opak2.pdb
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\obj\Debug\Opak2.csproj.AssemblyReference.cache
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\obj\Debug\Opak2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\obj\Debug\Opak2.Form1.resources
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\obj\Debug\Opak2.Properties.Resources.resources
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\obj\Debug\Opak2.csproj.GenerateResource.cache
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\obj\Debug\Opak2.csproj.CoreCompileInputs.cache
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\obj\Debug\Opak2.exe
+C:\Users\kubik\Source\Repos\Opak2\Opak2\Opak2\obj\Debug\Opak2.pdb

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Opak2
 {
@@ -16,7 +17,7 @@ namespace Opak2
         string pozice;
         int odpracovane;
 
-        string Jmeno
+        public string Jmeno
         {
             get
             {
@@ -35,7 +36,7 @@ namespace Opak2
             }
         }
 
-        string Titul
+        public string Titul
         {
             get
             {
@@ -64,35 +65,35 @@ namespace Opak2
             pozice = "Zaměstnanec";
         }
 
-        int RocniPlat()
+        public int RocniPlat()
         {
             return plat * 12;
         }
 
-        double PocetMesicu()
+        public double PocetMesicu()
         {
             TimeSpan ts = DateTime.Now - nastup;
             return ts.Days/30;
         }
 
-        double Celkem()
+        public double Celkem()
         {
             return PocetMesicu() * plat;
         }
 
-        void ZvysOsobn(int castka)
+        public void ZvysOsobn(int castka)
         {
             hodnoceni += castka;
             if (hodnoceni > 10000)
                 pozice = "Vedoucí";
         }
 
-        void Relaxace(int dny)
+        public void Relaxace(int dny)
         {
-            //Neńí v zadání
+            MessageBox.Show("Zrelaxováno: " + dny + " dní");
         }
 
-        void PridejHodiny(int hodiny)
+        public void PridejHodiny(int hodiny)
         {
             odpracovane += hodiny;
             if (odpracovane > 100)
@@ -104,8 +105,8 @@ namespace Opak2
 
         public override string ToString()
         {
-            return Titul+", "+Jmeno+", "+plat+", "+PocetMesicu()+", "+hodnoceni+", "+RocniPlat()+", "+Celkem()+
-                ", "+odpracovane;
+            return "Titul: "+Titul+", Jmeno: "+Jmeno+", Plat: "+plat+", Počet odprac. měsíců: "+PocetMesicu()+", Hodnocení: "+hodnoceni+", Roční plat: "+RocniPlat()+
+                ", Celkem: "+Celkem()+", Odpracováno: "+odpracovane+", Pozice: "+pozice;
         }
     }
 }
